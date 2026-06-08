@@ -155,7 +155,7 @@ def predict_score_based_on_goalies(count):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print('Based on Player Performance')
-    predictor(100)
+    predictor(100000)
     print('-------------------------------------------------------')
     print('Based on Goalie SV%')
     predict_score_based_on_goalies(100)
