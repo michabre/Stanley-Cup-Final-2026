@@ -31,7 +31,7 @@ def top_average_scorer(goal_totals, count):
 # TEAM STATS
 east = get_csvs('data/CAR')
 west = get_csvs('data/VGK')
-east_goalie = 'data/goalies/frederik_andersen.csv'
+east_goalie = 'data/goalies/brandon_bussi.csv'
 west_goalie = 'data/goalies/carter_hart.csv'
 
 
